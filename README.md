@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @giufus
+- 👀 I’m interested in COMPUTER SCIENCE
+- 🌱 I’m currently learning RUST
+- 📫 How to reach me: search me on Telegram
