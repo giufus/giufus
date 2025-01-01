@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Giufus
 - 👀 I’m interested in CODING
-- 🦀 I’m learning RUST
+- 👥 I like people and open source communities
