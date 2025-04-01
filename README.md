@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Giufus
 - 👀 I’m interested in PROGRAMMING and AI
-- 👥 I like people and open source communities
+- 👥 I enjoy meeting people and share code
