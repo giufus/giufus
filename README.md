@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Giufus
 - 👀 I’m interested in PROGRAMMING and AI
-- 👥 I like to [fix, build, share, meet, listen, learn, love]
+- 👥 I like to [read, fix, build, share, meet, listen, look, learn, love, live] not necessarily in this order
